@@ -1,4 +1,4 @@
-**##TripFlow – Modular Taxi ETL Orchestration**
+**TripFlow – Modular Taxi ETL Orchestration**
 
 ### Week-1
 
