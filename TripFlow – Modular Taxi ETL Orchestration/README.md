@@ -1,4 +1,4 @@
-# Data Engineering Zoomcamp 2023 - Course Work
+# Data Engineering Zoomcamp 2024 - Course Work
 
 Course Repo: https://github.com/DataTalksClub/data-engineering-zoomcamp
 
